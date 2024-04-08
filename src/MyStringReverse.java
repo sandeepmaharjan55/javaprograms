@@ -3,8 +3,11 @@ import java.util.Scanner;
 
 public class MyStringReverse {
     public static void main(String args[]) {
-        String gar= "palindrome";
-        System.out.println(reverseString(gar));
+        String gar= "madam";
+
+        String newRev=reverseString(gar);
+        if (gar.compareTo(newRev)==0) System.out.println("Palindrome");
+        System.out.println(newRev);
     }
     public static String reverseString(String hawa){
 
