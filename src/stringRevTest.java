@@ -5,15 +5,27 @@ public class stringRevTest {
     }
 
     private static String StrringRev(String tetst) {
-        StringBuilder newRevString =new StringBuilder();
-
+        //method 1
+       // StringBuilder newRevString =new StringBuilder();
+        //or this
+        String newRevString ="";
         //changes to array
         char[] newChar = tetst.toCharArray();
         for (int i = newChar.length-1; i >=0 ; i--) {
-            newRevString.append(newChar[i]);
+           // newRevString.append(newChar[i]);
+            //or this
+            newRevString=newRevString + newChar[i];
 
         }
-        return newRevString.toString();
+        //method 2
+        String newRevStringNew ="";
+        for (int i = 0; i < tetst.length()-1; i++) {
+            newRevStringNew= tetst.charAt(i)+newRevStringNew;
+            //newRevStringNew= newChar[i]+newRevStringNew;
+
+        }
+        System.out.println("Naya test gareko hai yo chai "+newRevString);
+        return newRevString;
     }
 }
 

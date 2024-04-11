@@ -1,12 +1,26 @@
+
 public class multiThread {
 
     public static void main(String[] args) {
-        multiThreadExtra new1=new multiThreadExtra();
-        multiThreadExtra new2 = new multiThreadExtra();
+        multiThreadExtras new1=new multiThreadExtras();
+        multiThreadExtras new2 = new multiThreadExtras();
 
 //        new1.run();
 //        new2.run();
         new1.start();
         new2.start();
+    }
+}
+class multiThreadExtras extends Thread{
+    @Override
+    public void run(){
+        for (int i = 1; i < 5; i++) {
+            System.out.println(i);
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
     }
 }

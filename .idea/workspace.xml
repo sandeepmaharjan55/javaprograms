@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="175f0017-be93-4fb3-981a-11631f7fecfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringRevTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringReverseOther.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyStringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyStringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringRevTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringRevTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
