@@ -10,11 +10,14 @@ public class hashset {
     }
 
     private static boolean checkIfContaina(Integer[] arrOne, Integer[] arrTwo) {
-        Set<Object> eleOne=new HashSet<>(Arrays.asList(arrOne));
-        Set<Object> eleTwo=new HashSet<>(Arrays.asList(arrTwo));
-        for (Object el:eleOne
+        Set<Integer> eleUniqueOne=new HashSet<>(Arrays.asList(arrOne));
+        Set<Integer> eleUniqueTwo=new HashSet<>(Arrays.asList(arrTwo));
+        System.out.println("One "+eleUniqueOne);
+        System.out.println("Two "+eleUniqueTwo);
+        System.out.println("daada "+Arrays.asList(arrOne));
+        for (Object el:eleUniqueOne
              ) {
-            if(!eleTwo.contains(el)) return false;
+            if(!eleUniqueTwo.contains(el)) return false;
         }
 //        for (int newr:arrOne
 //             ) {
