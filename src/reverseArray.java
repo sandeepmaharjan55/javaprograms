@@ -8,7 +8,6 @@ public class reverseArray {
     }
     public static void reverseArrayFunction(int[] hell){
         int hellLength=hell.length;
-        int start =0;
         int end = hellLength-1;
         ArrayList <Integer> newArr=new ArrayList<>();
         for (int i = end; i >=0 ; i--) {
