@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="175f0017-be93-4fb3-981a-11631f7fecfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stringRevjavafunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onlyOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringVowelMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
