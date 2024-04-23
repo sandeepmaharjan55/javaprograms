@@ -14,7 +14,5 @@ public class reverseArray {
             newArr.add(hell[i]);
         }
         System.out.println(newArr);
-
-
     }
 }

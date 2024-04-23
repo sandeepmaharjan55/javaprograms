@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="175f0017-be93-4fb3-981a-11631f7fecfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/socketProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findStringFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraySorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
